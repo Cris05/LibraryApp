@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BarraStatoCheckOut</string>
+
+    <string name="first_element">Shipment</string>
+    <string name="second_element">Payment</string>
+    <string name="third_element">Summary</string>
+</resources>

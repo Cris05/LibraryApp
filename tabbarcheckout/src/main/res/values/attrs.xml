@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BarraStatoCheckOut">
+
+        <attr name="backgroudTabColor" format="color"/>
+        <attr name="item_active" format="integer"></attr>
+        <attr name="textColorActive" format="color"/>
+        <attr name="textColorInactive" format="color"/>
+        <attr name="tabColorActive" format="color"/>
+        <attr name="tabColorInactive" format="color"/>
+        <attr name="textSize" format="dimension"/>
+    </declare-styleable>
+</resources>

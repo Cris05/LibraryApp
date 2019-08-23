@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="300dp"
+    android:layout_height="50dp"
+    android:id="@+id/layout_barra_stato"
+    android:background="@drawable/bordi_arrotondati"
+    android:backgroundTint="@color/backgroung_tab">
+
+
+    <TextView
+        android:id="@+id/uno_element_barra"
+        android:text="Shipping"
+        android:gravity="center"
+        android:textColor="@color/testo_active"
+        android:background="@drawable/bordi_arrotondati"
+        android:backgroundTint="@color/tab_item_active"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"></TextView>
+
+    <TextView
+        android:id="@+id/due_element_barra"
+        android:backgroundTint="@color/tab_item_inactive"
+        android:gravity="center"
+        android:textColor="@color/testo_inactive"
+        android:text="Payment"
+        android:layout_width="100dp"
+        android:background="@drawable/bordi_arrotondati"
+        android:layout_height="match_parent"></TextView>
+
+    <TextView
+        android:id="@+id/tre_element_barra"
+        android:backgroundTint="@color/tab_item_inactive"
+        android:gravity="center"
+        android:textColor="@color/testo_inactive"
+        android:text="Summary"
+        android:background="@drawable/bordi_arrotondati"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"></TextView>
+
+</LinearLayout>

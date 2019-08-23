@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="backgroung_tab">#dfdfdf</color>
+    <color name="tab_item_active">#FFB701</color>
+    <color name="tab_item_inactive">#00000000</color>
+
+    <color name="testo_inactive">#bdbdbd</color>
+
+    <color name="testo_active">#ffffff</color>
+
+
+
+</resources>
